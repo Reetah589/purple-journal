@@ -1,3 +1,33 @@
+header {
+    padding: 20px 35px;
+    background-color: black;
+    color: darksalmon;
+    margin: 0%;
+    text-align: center;
+}
+
+nav {
+    float: center;
+    margin: 7px 0;
+    padding: 20px 35px;
+    background-color: black;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 21px;
+}
+
+nav a {
+    color: darksalmon;
+    text-decoration: none;
+}
+
 body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: darkmagenta;
